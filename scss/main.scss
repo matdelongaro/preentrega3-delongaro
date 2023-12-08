@@ -1,0 +1,10 @@
+@import '../scss/base/colors';
+@import '../scss/components/header';
+@import '../scss/components/footer';
+@import '../scss/base/vars';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
